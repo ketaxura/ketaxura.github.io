@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile pic smaller.png"
   name             : "Usukhbayar Amgalanbat"
   pronouns         : # example: "she/her"  
   bio              : "You can call me Max, I like robots"
