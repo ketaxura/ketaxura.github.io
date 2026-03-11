@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Usukhbayar:
+  name        : "Usukhbayar Amgalanbat"
+  uri         : "https://ketaxura.github.io"
+  email       : "ketaxura@gmail.com"
+  bio         : "Robotics engineer working on motion planning, model predictive control, and autonomous robot navigation."
+  avatar      : "/images/profile.jpg"
+  location    : "Boston, MA"
+  employer    : "Boston University"
+  github      : "ketaxura"
+  linkedin    : "usukhbayar-amgalanbat"
