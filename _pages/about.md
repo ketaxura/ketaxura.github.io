@@ -1,3 +1,7 @@
+header:
+  overlay_image: /images/robot_banner.jpg
+  overlay_filter: 0.4
+
 ---
 permalink: /
 title: "Usukhbayar Amgalanbat Portfolio"
@@ -6,6 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I am a robotics engineer completing my Master's degree in Mechanical Engineering at Boston University.
 
