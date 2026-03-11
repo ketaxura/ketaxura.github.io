@@ -1,5 +1,5 @@
 header:
-  overlay_image: /images/robot_banner.jpg
+  overlay_image: /images/MPC_pybullet_gif.mkv
   overlay_filter: 0.4
 
 ---
